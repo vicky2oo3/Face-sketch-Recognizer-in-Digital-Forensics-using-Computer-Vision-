@@ -45,3 +45,5 @@ step4:
 9. Add images to the collection using the "collection_add_image.java" file
 10. Enter the S3 Bucket name and collection details in the "collection_search_face.java" file
 11. Run the Project (F6)
+![login](https://github.com/vicky2oo3/Face-sketch-Recognizer-in-Digital-Forensics-using-Computer-Vision-/assets/109359190/3f55fb65-6727-406f-b959-d838be9c2a2a)
+![Transparent Logo](https://github.com/vicky2oo3/Face-sketch-Recognizer-in-Digital-Forensics-using-Computer-Vision-/assets/109359190/7f52c8a2-44e1-4edd-97f7-1578ac13a92b)
