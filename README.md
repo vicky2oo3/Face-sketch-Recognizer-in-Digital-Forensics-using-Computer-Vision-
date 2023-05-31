@@ -61,3 +61,18 @@ step4:
 10. Enter the S3 Bucket name and collection details in the "collection_search_face.java" file
 11. Run the Project (F6)
 
+
+OUTPUTS
+![Screenshot (39)](https://github.com/vicky2oo3/Face-sketch-Recognizer-in-Digital-Forensics-using-Computer-Vision-/assets/109359190/93a75670-ac09-497f-839b-e14e026eb1a4)
+
+![Screenshot (40)](https://github.com/vicky2oo3/Face-sketch-Recognizer-in-Digital-Forensics-using-Computer-Vision-/assets/109359190/991bbf70-7602-4ac4-a634-e591ad668931)
+
+![Screenshot (41)](https://github.com/vicky2oo3/Face-sketch-Recognizer-in-Digital-Forensics-using-Computer-Vision-/assets/109359190/4e95c108-748f-47e2-bef4-0e9a3d4af512)
+
+![Screenshot (42)](https://github.com/vicky2oo3/Face-sketch-Recognizer-in-Digital-Forensics-using-Computer-Vision-/assets/109359190/12b18c18-2eae-4b79-90a6-883b8730a92a)
+
+![photo_6201739639790877244_y](https://github.com/vicky2oo3/Face-sketch-Recognizer-in-Digital-Forensics-using-Computer-Vision-/assets/109359190/986330c0-8deb-4ff7-aeee-3a2b72fe557b)
+
+![photo_6201739639790877246_y](https://github.com/vicky2oo3/Face-sketch-Recognizer-in-Digital-Forensics-using-Computer-Vision-/assets/109359190/e2fcb924-e25d-4835-8da6-2a52c7e51176)
+
+![photo_6201739639790877247_y](https://github.com/vicky2oo3/Face-sketch-Recognizer-in-Digital-Forensics-using-Computer-Vision-/assets/109359190/eb7bd070-d708-4988-8184-9e2a10dbf901)
