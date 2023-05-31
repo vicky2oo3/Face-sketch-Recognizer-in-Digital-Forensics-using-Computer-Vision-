@@ -10,7 +10,7 @@ step1:
 
 Souce code press the Link:https://drive.google.com/file/d/1InnMp9caT3QNzbSbpJCeaUadGt14qDor/view?usp=share_link
 step2:
-1. Download the Source Code from the Repo (https://github.com/imakashsahu/Third-Eye-Final-Year-Project)
+1. Download the Source Code from the Report (https://github.com/imakashsahu/Third-Eye-Final-Year-Project)
 2. Download and Install the Java JDK 8 (https://www.oracle.com/in/java/technologies/javase/javase-jdk8-downloads.html)
 3. Download the latest NetBeans Installer (https://netbeans.apache.org/download/index.html)
 3. Install and Open NetBeans
