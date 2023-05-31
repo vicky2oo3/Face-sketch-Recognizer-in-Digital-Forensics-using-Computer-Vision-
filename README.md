@@ -1,6 +1,13 @@
 # Face-sketch-Recognizer-in-Digital-Forensics-using-Computer-Vision-
 JAVA PROJECT FOR USING AWS (MACHINE LEARNING)
+
+
+![Transparent Logo](https://github.com/vicky2oo3/Face-sketch-Recognizer-in-Digital-Forensics-using-Computer-Vision-/assets/109359190/7f52c8a2-44e1-4edd-97f7-1578ac13a92b)
+
+
+
 step1:
+
 Souce code press the Link:https://drive.google.com/file/d/1InnMp9caT3QNzbSbpJCeaUadGt14qDor/view?usp=share_link
 step2:
 1. Download the Source Code from the Repo (https://github.com/imakashsahu/Third-Eye-Final-Year-Project)
@@ -11,7 +18,11 @@ step2:
 5. Search for "Java FX" and check "Gluon Plugin" & "JavaFx implementation for Windows" then click on Install
 6. Now search for "Maven" and check "Gradle" then click on Install
 7. Restart NetBeans
+
+
  step3:
+
+
 9. This part 1 of the project is been build using JAVA FX
 10. Download Scene Builder (https://gluonhq.com/products/scene-builder/)
 11. GoTo tools > options > Java > JavaFx
@@ -30,7 +41,11 @@ step2:
 24. Enter the OTP received to the email 
 25. Select Create Sketch and your are good to go 
 26. Change the File Directory on line 508 of file "dashboard_controller.java"!!!!!
+
+
 step4:
+
+
 1. This part 2 of the project is been build using JAVA Maven and AWS for Deep learning
 2. This part requires you to have AWS account with Credit Card been added to be activated
 3. Create a AWS Free Tier account by adding in your Credit Card
@@ -45,5 +60,4 @@ step4:
 9. Add images to the collection using the "collection_add_image.java" file
 10. Enter the S3 Bucket name and collection details in the "collection_search_face.java" file
 11. Run the Project (F6)
-![login](https://github.com/vicky2oo3/Face-sketch-Recognizer-in-Digital-Forensics-using-Computer-Vision-/assets/109359190/3f55fb65-6727-406f-b959-d838be9c2a2a)
-![Transparent Logo](https://github.com/vicky2oo3/Face-sketch-Recognizer-in-Digital-Forensics-using-Computer-Vision-/assets/109359190/7f52c8a2-44e1-4edd-97f7-1578ac13a92b)
+
